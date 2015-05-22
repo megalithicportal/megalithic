@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 12870,
+        "Name": "Beisenerbierg Menhir",
+        "Type": "Standing Stone (Menhir)",
+        "Colour": "Our Photo Page",
+        "Accuracy": 5,
+        "Condition": 5,
+        "Ambience": 4,
+        "Access": 2,
+        "TypeID": 21,
+        "CatID": 1,
+        "Icon": "tr21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07602,
+          49.7592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 31793,
+        "Name": "Blaschette Modern Stone Circle",
+        "Type": "Modern Stone Circle / Monolith",
+        "Colour": "Text Page",
+        "Accuracy": 4,
+        "Condition": 0,
+        "Ambience": 0,
+        "Access": 0,
+        "TypeID": 60,
+        "CatID": 2,
+        "Icon": "tg60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160977,
+          49.701698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 30271,
+        "Name": "De Schwaarze Mann",
+        "Type": "Rock Art",
+        "Colour": "Text Page",
+        "Accuracy": 2,
+        "Condition": 0,
+        "Ambience": 0,
+        "Access": 3,
+        "TypeID": 29,
+        "CatID": 2,
+        "Icon": "tg29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.303046,
+          49.790801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 12842,
+        "Name": "Deiwelselter",
+        "Type": "Burial Chamber (Dolmen)",
+        "Colour": "Other Photo Page",
+        "Accuracy": 3,
+        "Condition": 2,
+        "Ambience": 4,
+        "Access": 3,
+        "TypeID": 6,
+        "CatID": 17,
+        "Icon": "tp6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.154771,
+          49.858206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 35353,
+        "Name": "Freylay",
+        "Type": "Polissoir",
+        "Colour": "Text Page",
+        "Accuracy": 3,
+        "Condition": 0,
+        "Ambience": 0,
+        "Access": 3,
+        "TypeID": 66,
+        "CatID": 2,
+        "Icon": "tg66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.217279,
+          49.728037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 31797,
+        "Name": "Kalekapp",
+        "Type": "Cave or Rock Shelter",
+        "Colour": "Text Page",
+        "Accuracy": 3,
+        "Condition": 0,
+        "Ambience": 0,
+        "Access": 0,
+        "TypeID": 35,
+        "CatID": 2,
+        "Icon": "tg35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.35532,
+          49.844708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 31792,
+        "Name": "Keltenhiel",
+        "Type": "Cave or Rock Shelter",
+        "Colour": "Text Page",
+        "Accuracy": 4,
+        "Condition": 3,
+        "Ambience": 5,
+        "Access": 3,
+        "TypeID": 35,
+        "CatID": 2,
+        "Icon": "tg35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.317078,
+          49.797324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 12904,
+        "Name": "La Roche des Payens",
+        "Type": "Rock Art",
+        "Colour": "Other Photo Page",
+        "Accuracy": 4,
+        "Condition": 4,
+        "Ambience": 4,
+        "Access": 3,
+        "TypeID": 29,
+        "CatID": 17,
+        "Icon": "tp29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.217,
+          49.728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 31796,
+        "Name": "Mamerlach",
+        "Type": "Cave or Rock Shelter",
+        "Colour": "Text Page",
+        "Accuracy": 3,
+        "Condition": 3,
+        "Ambience": 4,
+        "Access": 3,
+        "TypeID": 35,
+        "CatID": 2,
+        "Icon": "tg35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.094856,
+          49.733815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 31795,
+        "Name": "Mamerlayen",
+        "Type": "Ancient Mine, Quarry or other Industry",
+        "Colour": "Text Page",
+        "Accuracy": 3,
+        "Condition": 4,
+        "Ambience": 4,
+        "Access": 3,
+        "TypeID": 31,
+        "CatID": 2,
+        "Icon": "tg31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.094458,
+          49.72437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 12903,
+        "Name": "Pierre du Diable (Manternach)",
+        "Type": "Modern Stone Circle / Monolith",
+        "Colour": "Text Page",
+        "Accuracy": 3,
+        "Condition": 3,
+        "Ambience": 4,
+        "Access": 0,
+        "TypeID": 60,
+        "CatID": 2,
+        "Icon": "tg60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4313,
+          49.7061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 12871,
+        "Name": "Schnellert Pseudo-Dolmen",
+        "Type": "Burial Chamber (Dolmen)",
+        "Colour": "Our Photo Page",
+        "Accuracy": 0,
+        "Condition": 5,
+        "Ambience": 4,
+        "Access": 3,
+        "TypeID": 6,
+        "CatID": 1,
+        "Icon": "tr6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.32434,
+          49.8035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 27926,
+        "Name": "Steebaachtal Polissoir",
+        "Type": "Polissoir",
+        "Colour": "Text Page",
+        "Accuracy": 4,
+        "Condition": 0,
+        "Ambience": 0,
+        "Access": 0,
+        "TypeID": 66,
+        "CatID": 2,
+        "Icon": "tg66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.326769,
+          49.761111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 34622,
+        "Name": "Vicus Ricciaco",
+        "Type": "Ancient Village or Settlement",
+        "Colour": "Text Page",
+        "Accuracy": 4,
+        "Condition": 0,
+        "Ambience": 0,
+        "Access": 5,
+        "TypeID": 2,
+        "CatID": 2,
+        "Icon": "tg2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.256665,
+          49.539563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SID": 31794,
+        "Name": "Wichtelslee",
+        "Type": "Hillfort",
+        "Colour": "Text Page",
+        "Accuracy": 3,
+        "Condition": 0,
+        "Ambience": 0,
+        "Access": 0,
+        "TypeID": 13,
+        "CatID": 2,
+        "Icon": "tg13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.078062,
+          49.726376
+        ]
+      }
+    }
+  ]
+}
